@@ -22,12 +22,8 @@ Week-5-Lecture
 
 ### 참고 파일
 
-<b>[(3Blue1Browm 바로가기)](https://www.youtube.com/watch?v=wjZofJX0v4M&t=38s)</b> 
-<b>[(3Blue1Browm 한국어 바로가기)](https://www.youtube.com/@3Blue1BrownKR)</b> 
-
-
-* 감성컴퓨팅의 최근동향 논문:A Systematic Review on Affective Computing
-* 감성컴퓨팅 최근동향 강의 자료
-* 3Blue1Brown 설명자료
-* 나동빈 깃허브 설명
+* 논문1. 침팬치는 마음이론을 갖고 있을까? (Does the chimpanzee have a theory of mind?)
+* 논문2. 로봇 마음이론을 위한 시각적행동 모델링(Vissual hehavior modelling for rovotic theory of mind)
+* 로봇 마음이론 실험 동영상  
+* 논문요약 : 로봇 마음이론을 위한 시각적행동 모델링
 
